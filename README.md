@@ -92,7 +92,7 @@ python -m src.analyze_bugs                           # bug report only
 Audio files are not committed to the repository (binary audio bloats git
 history). The call recordings for this submission are available here:
 
-**[(https://drive.google.com/file/d/1OyPuWz6cCBSJzGmHJGzbAbB5jEKytv-b/view?usp=sharing)]**
+**(https://drive.google.com/drive/folders/1u3HDs8xZSJ6agEA_KZudS6aA8Mh2v8pg?usp=sharing)**
 
 ## Safety guardrails
 
