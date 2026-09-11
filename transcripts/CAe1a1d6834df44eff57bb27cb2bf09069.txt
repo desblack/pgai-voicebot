@@ -1,0 +1,21 @@
+Call SID: CAe1a1d6834df44eff57bb27cb2bf09069
+Scenario: Question about office hours and parking
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi there, quick info question for you.
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:16] Patient (bot): What time does the office open on Saturdays, and is there parking nearby?
+[00:22] Agent (pgai): The clinic is closed on Saturdays.
+[00:25] Agent (pgai): We are open Monday through Friday.
+[00:27] Agent (pgai): There is free patient parking available in the surface lot, right in front of the building.
+[00:30] Patient (bot): Perfect, that's exactly what I needed.
+[00:37] Patient (bot): Thanks so much for your help, and have a great day.
+[00:42] Agent (pgai): You're welcome. Have a great day.
+[00:46] Patient (bot): You too, take care.
+[00:48] Patient (bot): Goodbye.

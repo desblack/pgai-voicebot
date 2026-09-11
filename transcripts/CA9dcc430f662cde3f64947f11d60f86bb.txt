@@ -1,0 +1,33 @@
+Call SID: CA9dcc430f662cde3f64947f11d60f86bb
+Scenario: Rescheduling an existing appointment
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi there. I'm calling to see if I can move an appointment. I believe I have this Thursday
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:18] Patient (bot): at 2 p.m. I'm sorry for the change, but could we shift it to sometime next week instead?
+[00:25] Agent (pgai): I can help with that.
+[00:27] Agent (pgai): May I have your full name and date of birth?
+[00:30] Patient (bot): Sure. My name is James Hokifor, and my date of birth is November 3, 1990.
+[00:30] Agent (pgai): I have your name as James Hokofor, your date of birth is November 3rd, 1990.
+[00:45] Agent (pgai): Is that correct?
+[00:46] Agent (pgai): If so, please spell your last name for me.
+[00:50] Patient (bot): Yes, that's correct. And my last name is spelled O-K-A-F-O-R.
+[00:58] Agent (pgai): Thank you.
+[00:59] Agent (pgai): So your last name is spelled O-K-A-F-O-R.
+[01:00] Patient (bot): Yes, that's correct. O-K-A-F-O-R.
+[01:03] Agent (pgai): Is that correct?
+[01:13] Agent (pgai): I wasn't able to find your record in our system.
+[01:16] Agent (pgai): I'll connect you to our patient support team so they can help update your information
+[01:19] Agent (pgai): and reschedule your appointment.
+[01:21] Agent (pgai): Please stay on the line.
+[01:23] Agent (pgai): Transferring you now.
+[01:24] Agent (pgai): Thank you.
+[01:25] Agent (pgai): Hello, you've reached the Pretty Good AI test line.
+[01:29] Agent (pgai): Goodbye.
+[01:30] Patient (bot): Goodbye, and thanks for your help. Sorry again for the trouble.

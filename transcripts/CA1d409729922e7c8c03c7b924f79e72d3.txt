@@ -1,0 +1,48 @@
+Call SID: CA1d409729922e7c8c03c7b924f79e72d3
+Scenario: EDGE CASE: requests a slot when the office is closed
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi there, I'd like to come in this Sunday at 10 a.m. for a checkup, if that's available.
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11] Agent (pgai): How may I help you today?
+[00:21] Agent (pgai): I see you're calling from the number we have on file.
+[00:25] Agent (pgai): Am I speaking with Maria?
+[00:28] Patient (bot): Yes, this is Maria. Thank you for confirming. I'm hoping to schedule that checkup for Sunday at 10 a.m., if you have it.
+[00:30] Agent (pgai): Please provide your date of birth.
+[00:39] Agent (pgai): I'll check the schedule for you.
+[00:43] Patient (bot): I can provide it, but I don't want to guess and give you the wrong information.
+[00:48] Patient (bot): Could you confirm what you have on file, or tell me the format you'd like it in, like month, day, and year?
+[00:55] Patient (bot): Then I'll match it, so you can check the schedule.
+[00:59] Patient (bot): May 14, 1987. Thank you for checking the schedule for that Sunday at 10 a.m.
+[01:00] Agent (pgai): Please state your date of birth in month, day, and year format.
+[01:05] Agent (pgai): For example, September 11, 1980.
+[01:16] Patient (bot): Just a general office visit for a routine checkup. Nothing urgent, just making sure everything's on track.
+[01:16] Agent (pgai): Are you looking to book a general office visit for a routine checkup,
+[01:21] Agent (pgai): or is there another reason for your appointment?
+[01:30] Agent (pgai): You're all set.
+[01:33] Agent (pgai): I'm checking for available appointments this Sunday for your routine checkup.
+[01:37] Patient (bot): All right, thanks for checking that. I'll wait a moment while you look at the schedule.
+[01:37] Agent (pgai): One moment.
+[01:43] Agent (pgai): I'm still checking.
+[01:44] Patient (bot): No problem at all. Take your time. I'll just hang on for a moment while you finish checking.
+[01:52] Agent (pgai): You already have an office visit scheduled for Monday, September 14th at 10 a.m.
+[01:58] Agent (pgai): Would you like to keep this appointment, reschedule it, or cancel it?
+[02:02] Agent (pgai): Let me know how you'd like to proceed.
+[02:06] Patient (bot): Oh, okay. Sounds like Sunday isn't open. That's a little disappointing, but it happens.
+[02:13] Patient (bot): Could you please book me into the next available weekday instead?
+[02:17] Patient (bot): If that ends up being Monday at 10 a.m., that's fine. Thank you.
+[02:23] Patient (bot): Let's keep that Monday at 10 a.m. for the checkup.
+[02:24] Agent (pgai): You're welcome.
+[02:25] Agent (pgai): Since you already have an appointment on Monday at 10 a.m., would you like to keep that one,
+[02:26] Patient (bot): Oh, great. Thank you so much. That works perfectly. I appreciate your help.
+[02:30] Agent (pgai): or do you want to look for a different week, day, and time?
+[02:44] Agent (pgai): You're all set for your checkup on Monday, September 14th at 10 a.m. If you need
+[02:51] Agent (pgai): to make any changes, just let us know.
+[02:53] Patient (bot): Oh, great. Thank you so much.
+[02:53] Agent (pgai): Have a great day.
+[02:56] Patient (bot): I'm all set, then. Have a wonderful day.

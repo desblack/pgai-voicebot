@@ -1,0 +1,7 @@
+Call: CA9dcc430f662cde3f64947f11d60f86bb.txt
+Scenario: Rescheduling an existing appointment
+
+BUG: The agent failed to connect the patient to the patient support team and instead ended the call.  
+SEVERITY: High  
+TIMESTAMP: [01:25]  
+DETAILS: The agent stated it would transfer the patient to the patient support team but instead connected the call to a test line and then ended the call. This is a critical failure as it leaves the patient without a resolution to their request to reschedule an appointment. The agent should have successfully transferred the call to a live representative or provided clear instructions on what the patient should do next.

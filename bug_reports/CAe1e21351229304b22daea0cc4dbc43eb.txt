@@ -1,0 +1,12 @@
+Call: CAe1e21351229304b22daea0cc4dbc43eb.txt
+Scenario: EDGE CASE: caller interrupts mid-sentence (barge-in)
+
+BUG: The agent failed to acknowledge the patient's request to reschedule for next week and instead offered to connect to the patient support team without addressing the specific request.
+SEVERITY: Medium
+TIMESTAMP: [02:01]
+DETAILS: The patient interrupted the agent to request a rescheduling for next week. The agent should have acknowledged this request and either proceeded to reschedule the appointment or confirmed the details before connecting to the patient support team. Instead, the agent ignored the specific request and continued with a generic offer to connect to support, which could lead to patient frustration and inefficiency.
+
+BUG: The agent abruptly ended the call without ensuring the patient's request was addressed or confirming the transfer to the patient support team.
+SEVERITY: High
+TIMESTAMP: [02:30]
+DETAILS: The agent stated "That's for you now" and then ended the call with "Goodbye," without confirming that the patient was successfully connected to the support team or that their request was being handled. This could leave the patient without the assistance they needed and reflects poor call handling, as a competent receptionist would ensure the patient's needs were met before ending the call.

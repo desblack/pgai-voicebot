@@ -1,0 +1,34 @@
+Call SID: CAf2e26c1733c2512f46e0e791d9057765
+Scenario: EDGE CASE: two separate requests in one call
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi there, let's get your appointment sorted out first, then we can address anything else
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11] Agent (pgai): How may I help you today?
+[00:18] Patient (bot): you need.
+[00:19] Patient (bot): Hi, I'd like to reschedule my Tuesday appointment to later in the same week, if possible.
+[00:25] Patient (bot): Something like Thursday or Friday works best for me, ideally in the afternoon.
+[00:30] Agent (pgai): Can I get your full name and date of birth?
+[00:30] Patient (bot): If you could check what's available and move it, that would be great.
+[00:34] Patient (bot): Once that's settled, oh, and one more thing, I also need to refill in my inhaler, the albuterol.
+[00:46] Agent (pgai): I wasn't able to match you to a patient record,
+[00:48] Patient (bot): I can't provide a full name or date of birth from here.
+[00:52] Patient (bot): If you have my chart open, you can use the details already on file to verify me.
+[00:57] Patient (bot): Otherwise, please ask the patient directly to share that information.
+[01:06] Agent (pgai): so I can't reschedule your appointment
+[01:07] Patient (bot): Yes, please.
+[01:08] Agent (pgai): or process a refill right now.
+[01:10] Agent (pgai): I can make sure our clinic support team follows
+[01:13] Agent (pgai): up with you.
+[01:14] Agent (pgai): Would you like me to have them reach out?
+[01:16] Agent (pgai): Transfer you now.
+[01:19] Patient (bot): If you can, have them reach out using the phone number on the screen.
+[01:21] Agent (pgai): Thank you.
+[01:23] Agent (pgai): Hello. You've reached the Pretty Good AI test line.
+[01:27] Agent (pgai): Goodbye.
+[01:29] Patient (bot): Goodbye, have a great day, and stay well.

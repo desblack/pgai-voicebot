@@ -1,0 +1,7 @@
+Call: CAa6bda09b70678bca4cb03fe69195de48.txt
+Scenario: Canceling an appointment (agent may push back)
+
+BUG: The agent failed to confirm the cancellation request verbally and instead attempted to transfer the call to a non-functional test line.
+SEVERITY: High
+TIMESTAMP: [01:17]
+DETAILS: The agent did not confirm the cancellation request as instructed and instead transferred the caller to a test line, which is not a valid action for handling a cancellation request. This could lead to the appointment not being canceled, causing inconvenience to the patient and potential scheduling conflicts for the clinic. The agent should have confirmed the cancellation verbally and assured the patient that the request was documented for follow-up by the clinic support team.

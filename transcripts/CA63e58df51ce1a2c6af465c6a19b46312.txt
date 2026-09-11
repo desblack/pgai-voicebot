@@ -1,0 +1,31 @@
+Call SID: CA63e58df51ce1a2c6af465c6a19b46312
+Scenario: EDGE CASE: refill with an uncertain medication name
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi. Yeah, I'm calling for a refill, but I'm honestly blanking on the name. It's the white
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:19] Patient (bot): pill, the one for my cholesterol. I think it starts with an A? Sorry, that's not very
+[00:25] Patient (bot): helpful. If you need a name, I think it's atorvastatin? Maybe? I'm really not sure.
+[00:30] Agent (pgai): No problem. Can you please tell me your full name and date of birth?
+[00:39] Patient (bot): I can give that, but I don't want to make anything up. I don't have my details in front
+[00:43] Patient (bot): of me right now, and I'd hate to give you the wrong information. Is there a way to look
+[00:48] Patient (bot): it up from my file, or should I call back when I have my records handy? Yes, please.
+[00:54] Agent (pgai): I wasn't able to verify your record, so I can't process the refill right now.
+[00:59] Agent (pgai): You can call back when you have your details,
+[01:01] Agent (pgai): or I can have our clinic support team follow up with you.
+[01:05] Agent (pgai): Would you like me to let them know to reach out?
+[01:09] Patient (bot): That would be really helpful. I don't want to give you the wrong info, so having the
+[01:13] Patient (bot): support team reach out sounds like the safest option. I'm sorry, I couldn't verify it today.
+[01:21] Agent (pgai): No worries at all.
+[01:22] Agent (pgai): I'll connect you to our patient support team now so they can help you directly.
+[01:26] Agent (pgai): Please stay on the line.
+[01:28] Agent (pgai): Transferring you now. Thank you.
+[01:31] Patient (bot): Okay, I'm staying on the line. Oh, okay. Goodbye, then. I'll follow up with the clinic support
+[01:33] Agent (pgai): Hello. You've reached the Pretty Good AI test line. Goodbye.
+[01:43] Patient (bot): team when they reach out.

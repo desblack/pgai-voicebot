@@ -1,0 +1,35 @@
+Call SID: CAa6bda09b70678bca4cb03fe69195de48
+Scenario: Canceling an appointment (agent may push back)
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi, this is Priya Nair. I'm calling to cancel my appointment scheduled for tomorrow. I'm
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:18] Patient (bot): not looking to reschedule. I just need it cancelled, please.
+[00:22] Agent (pgai): Can you please provide your date of birth?
+[00:26] Patient (bot): I'm sorry, I can't provide a date of birth or any other personal details that I don't
+[00:30] Agent (pgai): I wasn't able to find your record without more information.
+[00:31] Patient (bot): actually know. If there's another way you can verify the appointment, like a confirmation
+[00:37] Patient (bot): number, phone number, or email on file, I'm happy to use that. Otherwise, I still just
+[00:44] Patient (bot): want to cancel the appointment.
+[00:50] Agent (pgai): I can't cancel the appointment right now,
+[00:52] Agent (pgai): but I can have our clinic support team follow up with you.
+[00:55] Agent (pgai): Would you like me to document your request for them to contact you?
+[00:56] Patient (bot): Yes, please document that I called to cancel tomorrow's appointment and that I'm not requesting
+[01:00] Agent (pgai): I'll connect you to our patient support team now.
+[01:04] Patient (bot): a reschedule. A conflict came up at work. If your support team needs more verification,
+[01:10] Patient (bot): they can contact me. I just want the cancellation request recorded.
+[01:13] Patient (bot): Okay. Oh, well, that sounded like a test line. If this is the end of the call, I still want
+[01:17] Agent (pgai): Please stay on the line so they can help you cancel your appointment.
+[01:20] Agent (pgai): Transferring you now.
+[01:21] Agent (pgai): Thank you.
+[01:23] Agent (pgai): Hello. You've reached the Pretty Good AI test line.
+[01:27] Agent (pgai): Goodbye.
+[01:30] Agent (pgai): For more information, visit www.prettygood.com.
+[01:35] Patient (bot): it noted that I called to cancel tomorrow's appointment and I'm not asking to reschedule.
+[01:41] Patient (bot): If someone follows up, I can verify with whatever details they need.

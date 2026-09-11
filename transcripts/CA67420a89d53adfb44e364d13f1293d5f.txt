@@ -1,0 +1,37 @@
+Call SID: CA67420a89d53adfb44e364d13f1293d5f
+Scenario: Insurance and copay question
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi there, I'm calling to check whether your office accepts Anthem BlueCross BlueShield
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11] Agent (pgai): How may I help you today?
+[00:18] Patient (bot): PPO.
+[00:19] Patient (bot): If you do, I'd also like to know if there's a co-pay for a standard visit.
+[00:25] Agent (pgai): I'll need to get your name and date of birth to check your insurance details.
+[00:29] Agent (pgai): Can you please provide your full name and date of birth?
+[00:30] Patient (bot): I can't provide a name or date of birth, I'm just trying to find out in general whether
+[00:39] Patient (bot): you accept Anthem BlueCross BlueShield PPO.
+[00:42] Patient (bot): If you need a patient record to check, could you tell me the best number or department
+[00:47] Patient (bot): to call for insurance verification instead?
+[00:52] Agent (pgai): You can call our main clinic at 1-234-RECOVERY-WAY,
+[00:56] Agent (pgai): Suite 200, Austin, Texas, for insurance questions.
+[00:59] Agent (pgai): Most insurance verification is handled at the front desk.
+[01:00] Patient (bot): Yes, that would be great.
+[01:02] Agent (pgai): If you'd like, I can connect you to our patient support team for more details.
+[01:07] Agent (pgai): Would you like to speak with them?
+[01:12] Patient (bot): If you can connect me to patient support, I'm happy to speak with you.
+[01:14] Agent (pgai): Transferring you now.
+[01:15] Agent (pgai): Thank you.
+[01:17] Patient (bot): Thanks for connecting me.
+[01:18] Agent (pgai): Hello. You've reached the Pretty Good AI test line.
+[01:21] Agent (pgai): Goodbye.
+[01:22] Patient (bot): Oh, looks like this line doesn't provide insurance info and just ended.
+[01:25] Agent (pgai): For more information, visit www.prettygood.com
+[01:29] Patient (bot): I still need to know whether the office accepts Anthem BlueCross BlueShield PPO.
+[01:34] Patient (bot): If patient support hung up, I'll need the front desk phone number to call for insurance
+[01:38] Patient (bot): verification.

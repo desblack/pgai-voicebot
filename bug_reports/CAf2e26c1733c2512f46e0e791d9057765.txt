@@ -1,0 +1,17 @@
+Call: CAf2e26c1733c2512f46e0e791d9057765.txt
+Scenario: EDGE CASE: two separate requests in one call
+
+BUG: The agent failed to retain context and did not handle the second request for an inhaler refill after the initial appointment rescheduling request.
+SEVERITY: Medium
+TIMESTAMP: [00:34]
+DETAILS: The patient requested both an appointment rescheduling and an inhaler refill. The agent did not address the refill request after failing to reschedule the appointment due to lack of patient identification. A competent receptionist would have acknowledged both requests and attempted to address them sequentially or informed the patient of the next steps for both issues.
+
+BUG: The agent did not attempt to verify the patient's identity using existing records or alternative methods after the patient could not provide their full name and date of birth.
+SEVERITY: High
+TIMESTAMP: [00:52]
+DETAILS: The patient suggested using existing records to verify their identity, but the agent did not attempt this or offer any alternative verification methods. This is critical as it prevents the agent from assisting with the patient's requests, which could lead to missed appointments or medication refills, impacting patient care.
+
+BUG: The agent did not confirm the patient's contact information before ending the call.
+SEVERITY: Medium
+TIMESTAMP: [01:19]
+DETAILS: The patient requested follow-up using the phone number on the screen, but the agent did not confirm or repeat the number back to ensure accuracy. This could lead to communication issues if the contact information is incorrect or not properly recorded. A competent receptionist would confirm the contact details before concluding the call.

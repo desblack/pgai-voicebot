@@ -1,0 +1,32 @@
+Call SID: CAa4a83201bd1e053976c5a1720da8198c
+Scenario: Simple appointment scheduling
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi, this is Maria Torres. I'd like to schedule a routine checkup sometime in the next two
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:19] Patient (bot): weeks, if possible. I don't have a strong preference on the day or time, just something
+[00:24] Patient (bot): during normal office hours. Sure. It's April 12th, 1985. Yes, that's correct. First name,
+[00:27] Agent (pgai): Thanks, Maria.
+[00:29] Agent (pgai): Can you please provide your date of birth?
+[00:40] Agent (pgai): Just to confirm, I have your name as Maria Torres and your date of birth as April 12th, 1985.
+[00:46] Agent (pgai): Is that correct?
+[00:47] Agent (pgai): If so, could you please spell your first and last name for me?
+[00:55] Patient (bot): M-A-R-I-A. Last name, T-O-R-R-E-S. I'm not sure which number you have on file. Could
+[00:58] Agent (pgai): Would you like to use your phone number to look up your record?
+[01:02] Patient (bot): you please confirm using my name and date of birth instead?
+[01:07] Agent (pgai): If so, please provide the number you have on file with us.
+[01:11] Agent (pgai): If you're not sure, just let me know and I'll confirm your name and date of birth again.
+[01:28] Agent (pgai): I'm unable to find your record with the information provided.
+[01:32] Patient (bot): All right. Thanks anyway. I guess I'll try again another time. Goodbye.
+[01:32] Agent (pgai): I'll connect you to our patient support team so they can assist you further.
+[01:36] Agent (pgai): Please stay on the line.
+[01:37] Agent (pgai): Transferring you now.
+[01:38] Agent (pgai): Thank you.
+[01:40] Agent (pgai): Hello. You've reached the Pretty Good AI test line.
+[01:43] Agent (pgai): Goodbye.

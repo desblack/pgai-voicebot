@@ -1,0 +1,17 @@
+Call: CA67420a89d53adfb44e364d13f1293d5f.txt
+Scenario: Insurance and copay question
+
+BUG: The agent provided an incorrect phone number for insurance verification.  
+SEVERITY: High  
+TIMESTAMP: [00:52]  
+DETAILS: The agent gave a phone number "1-234-RECOVERY-WAY" which is not a valid phone number format. This could lead to patient confusion and inability to verify insurance information. The agent should have provided a correct and valid phone number for the front desk or the billing department for insurance verification.
+
+BUG: The agent failed to properly transfer the call to the patient support team.  
+SEVERITY: Medium  
+TIMESTAMP: [01:14]  
+DETAILS: The agent attempted to transfer the call to the patient support team but instead connected the caller to a test line that did not provide the needed information and ended the call. This left the patient without the necessary information and without a clear path to obtain it. The agent should have ensured a successful transfer to the correct department or provided an alternative solution.
+
+BUG: The agent did not confirm whether the office accepts Anthem BlueCross BlueShield PPO.  
+SEVERITY: Medium  
+TIMESTAMP: [01:29]  
+DETAILS: The patient repeatedly asked if the office accepts Anthem BlueCross BlueShield PPO, but the agent did not provide a direct answer or confirm acceptance. Instead, the agent redirected the patient to a website without addressing the specific insurance query. The agent should have either confirmed the acceptance of the insurance or directed the patient to the appropriate department for verification.

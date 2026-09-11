@@ -1,0 +1,4 @@
+Call: CA1d409729922e7c8c03c7b924f79e72d3.txt
+Scenario: EDGE CASE: requests a slot when the office is closed
+
+NO BUGS FOUND

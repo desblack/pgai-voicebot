@@ -1,0 +1,12 @@
+Call: CA523e79f697090c6250dd82d3db84e17c.txt
+Scenario: Straightforward medication refill
+
+BUG: The agent failed to verify the patient's identity using alternative methods when the date of birth was not provided.
+SEVERITY: Medium
+TIMESTAMP: [00:33]
+DETAILS: The patient offered to verify their identity using alternative information such as medication details or pharmacy information. The agent should have attempted to verify the patient's identity using these alternative methods instead of immediately transferring the call. This could lead to unnecessary call transfers and patient frustration.
+
+BUG: The agent prematurely ended the call without ensuring the patient was connected to the patient support team.
+SEVERITY: High
+TIMESTAMP: [01:10]
+DETAILS: The agent stated it would transfer the patient to the patient support team but instead ended the call. This could result in the patient not receiving the necessary assistance for their medication refill request, potentially impacting their health if the medication is not refilled in a timely manner. The agent should have ensured the transfer was successful before ending the call.

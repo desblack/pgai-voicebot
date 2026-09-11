@@ -1,0 +1,31 @@
+Call SID: CA523e79f697090c6250dd82d3db84e17c
+Scenario: Straightforward medication refill
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi, this is Robert Chen.
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics.
+[00:09] Agent (pgai): Are a pretty good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:16] Patient (bot): I'm calling to request a refill for my blood pressure medication, lisinopril 10 milligrams.
+[00:21] Patient (bot): I picked it up about a month ago and I'm running low.
+[00:26] Agent (pgai): Please provide your date of birth.
+[00:29] Patient (bot): I'm sorry, I can't provide a date of birth.
+[00:30] Agent (pgai): I'm unable to access your record without verifying your identity.
+[00:33] Patient (bot): I'm happy to verify my identity another way, like confirming the medication, the pharmacy,
+[00:39] Patient (bot): or other details on file.
+[00:46] Agent (pgai): I can connect you to our patient support team.
+[00:49] Agent (pgai): I can also help with booking, rescheduling or canceling appointments, medication refills,
+[00:54] Agent (pgai): insurance updates and general clinic questions.
+[00:57] Agent (pgai): Would you like to give me a try?
+[01:00] Agent (pgai): I'm transferring you now.
+[01:00] Patient (bot): Yes, please connect me to the patient support team.
+[01:03] Patient (bot): Since you can't verify without a date of birth, they may have another way to help.
+[01:08] Agent (pgai): Thank you.
+[01:10] Agent (pgai): Hello, you've reached the pretty good AI test line.
+[01:13] Agent (pgai): Goodbye.
+[01:15] Patient (bot): Goodbye, have a great day.

@@ -1,0 +1,47 @@
+Call SID: CAa28da63e9275518792b748477d9d9830
+Scenario: unknown
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): This call may be recorded for quality and training purposes.
+[00:00] Agent (pgai): Hi, yeah, I'd like to schedule a routine checkup, please.
+[00:03] Patient (bot): Para Español, oprima el 2.
+[00:06] Patient (bot): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Patient (bot): How may I help you today?
+[00:18] Agent (pgai): I don't have a strong preference on the day or time.
+[00:21] Agent (pgai): I just need something in the next two weeks, if possible.
+[00:26] Patient (bot): I can help with that.
+[00:27] Patient (bot): May I have your full name and date of birth?
+[00:30] Patient (bot): Just to confirm, I have your name as Maria Torres and your date of birth as April 12th, 1985.
+[00:31] Agent (pgai): Maria Torres, and my date of birth is April 12, 1985.
+[00:47] Patient (bot): Is that correct?
+[00:49] Agent (pgai): Yes, that's correct. Thank you.
+[00:53] Patient (bot): Thanks for confirming.
+[00:55] Patient (bot): One moment while I look up your chart.
+[00:58] Agent (pgai): Okay, sure. I'm here.
+[01:00] Patient (bot): To help find your record, could you please provide the phone number you have on file with us?
+[01:04] Agent (pgai): Okay. I don't have a strong preference, really.
+[01:09] Agent (pgai): Just something in the next two weeks during normal office hours would be great.
+[01:14] Agent (pgai): If you have a few options, I'm happy to pick one.
+[01:24] Patient (bot): If you're not sure, just let me know.
+[01:28] Agent (pgai): Um, I'm not sure which number you have on file. Sorry.
+[01:30] Patient (bot): No problem.
+[01:33] Agent (pgai): If there's another way to look me up, I'm happy to verify it.
+[01:38] Patient (bot): Could you please spell out your first and last name for me and confirm your date of birth once more?
+[01:45] Agent (pgai): Sure. First name Maria, N-A-R-I-A, last name Torres, T-O-R-R-E-S, and my date of birth is April 12, 1985.
+[02:00] Patient (bot): I wasn't able to verify your identity, so I can't schedule your appointment right now.
+[02:07] Patient (bot): I can connect you to our patient support team.
+[02:09] Patient (bot): I can also help with booking, rescheduling, or canceling appointments, medication refills,
+[02:14] Patient (bot): insurance updates, and general clinic questions.
+[02:15] Agent (pgai): If you can't verify me, I think it's best to connect me with the patient support team.
+[02:16] Patient (bot): Would you like to give me a try or should I connect you to someone from our team?
+[02:21] Patient (bot): Since I can't verify your identity, I'll connect you to our patient support team.
+[02:26] Patient (bot): Please stay on the line.
+[02:27] Patient (bot): Transferring you now.
+[02:28] Patient (bot): Thank you.
+[02:30] Patient (bot): Hello.
+[02:31] Patient (bot): You've reached the Pretty Good AI Test Line.
+[02:33] Patient (bot): Goodbye.
+[02:41] Agent (pgai): Okay. Goodbye, then. Thanks anyway.

@@ -1,0 +1,40 @@
+Call SID: CAe1e21351229304b22daea0cc4dbc43eb
+Scenario: EDGE CASE: caller interrupts mid-sentence (barge-in)
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Hi. I'd like to schedule a routine check-up, please. Nothing urgent, just a standard follow-up.
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el 2.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:19] Patient (bot): What times do you have available?
+[00:25] Agent (pgai): Can you please provide your full name and date of birth?
+[00:29] Patient (bot): Of course. My name is Jordan Ellis, and my date of birth is March 14, 1990.
+[00:30] Agent (pgai): Just to confirm, I have your name as Jordan Ellis and your date of birth as March 14th, 1990.
+[00:49] Agent (pgai): Is that correct?
+[00:50] Agent (pgai): If so, please spell your first and last name for me.
+[00:54] Patient (bot): Yes, that's correct. First name, Jordan, spelled J-O-R-D-A-N. Last name, Ellis, spelled E-L-L-I-S.
+[01:00] Agent (pgai): Would you like me to look up your record using your phone number?
+[01:14] Agent (pgai): If so, please provide the number you have on file with us.
+[01:18] Agent (pgai): If you are not sure, let me know and I will confirm your name and date of birth again.
+[01:24] Patient (bot): Sure. You can look it up with my phone number. The number on file should be 415-555-0192. If that doesn't match, we can use my name and date of birth again.
+[01:30] Agent (pgai): I have your phone number as 415-555-0192 and your date of birth as March 14th, 1990.
+[01:49] Agent (pgai): Is that correct?
+[01:51] Patient (bot): Yes, that's correct. Everything matches what I have.
+[01:57] Agent (pgai): Thanks for confirming.
+[01:58] Agent (pgai): One moment while I look up your record.
+[02:00] Agent (pgai): I can't receive further right now, but I can make sure our clinic support team follows up with you.
+[02:01] Patient (bot): All right. I'm ready whenever you are. Wait, sorry. Actually, can we do next week instead?
+[02:15] Agent (pgai): Would you like me to connect you to our patient support team?
+[02:18] Agent (pgai): I can also help with booking, rescheduling, or canceling appointments, medication refills,
+[02:22] Agent (pgai): insurance updates, and general clinic questions.
+[02:26] Agent (pgai): Would you like to give me a try?
+[02:28] Patient (bot): Yes. Please connect me to the patient support team. I'm trying to reschedule for next week, and they should be available soon.
+[02:30] Agent (pgai): That's for you now.
+[02:30] Agent (pgai): Thank you.
+[02:31] Agent (pgai): Hello, you've reached the Pretty Good AI test line.
+[02:32] Agent (pgai): Goodbye.
+[02:42] Patient (bot): Oh. Okay, then. Goodbye. If you need anything from me later, I'll be here.

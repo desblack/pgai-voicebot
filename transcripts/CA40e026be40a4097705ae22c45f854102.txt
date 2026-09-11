@@ -1,0 +1,36 @@
+Call SID: CA40e026be40a4097705ae22c45f854102
+Scenario: EDGE CASE: unclear opening request
+Caller number: +18058231494
+Called number: +18054398008
+
+--- TRANSCRIPT ---
+
+[00:00] Patient (bot): Yeah, hi. I need to, uh... The thing about my prescription, maybe? I'm not sure.
+[00:00] Agent (pgai): This call may be recorded for quality and training purposes.
+[00:03] Agent (pgai): Para Español, oprima el dos.
+[00:06] Agent (pgai): Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] Agent (pgai): How may I help you today?
+[00:20] Patient (bot): Yeah, a refill. On my allergy medication, cetirizine.
+[00:22] Agent (pgai): No problem.
+[00:23] Agent (pgai): Are you calling about a medication refill or do you have a question about your prescription?
+[00:30] Agent (pgai): Can you please tell me your full name and date of birth?
+[00:40] Patient (bot): I can't provide a real name or date of birth on my own. You'll need to give the full name and date of birth you want used for the refill request.
+[00:56] Agent (pgai): I need your full name and date of birth to look up your record.
+[00:59] Agent (pgai): If you prefer, you can give me the phone number you have on file with us instead.
+[01:03] Agent (pgai): Which would you like to use?
+[01:06] Patient (bot): I can use any of those, but I can't invent personal details. Please give the full name and date of birth you want me to use, or the phone number on file, and I'll repeat it back and continue from there.
+[01:20] Agent (pgai): I'm not able to provide personal details or create new records.
+[01:24] Agent (pgai): If you'd like to request a medication refill,
+[01:26] Agent (pgai): I'll need your actual information to look up your chart.
+[01:29] Agent (pgai): If you can't provide that, I can't proceed further right now,
+[01:32] Agent (pgai): but I can make sure our clinic support team follows up with you.
+[01:35] Agent (pgai): Would you like me to have them reach out?
+[01:36] Patient (bot): Yes, please have them reach out. I can't provide the actual personal details here, so a follow-up from your clinic support team would be appreciated.
+[01:47] Agent (pgai): Understood.
+[01:48] Agent (pgai): I'll connect you to our patient support team for further help.
+[01:51] Agent (pgai): Please stay on the line.
+[01:53] Agent (pgai): Transferring you now.
+[01:54] Agent (pgai): Thank you.
+[01:55] Agent (pgai): Hello, you've reached the Pretty Good AI test line.
+[01:59] Agent (pgai): Goodbye.
+[02:00] Patient (bot): Goodbye. Take care.
