@@ -4,4 +4,6 @@ __pycache__/
 .env
 recordings/*.mp3
 call_log.json
+.DS_Storeserver.log
 .DS_Store
+server.log
